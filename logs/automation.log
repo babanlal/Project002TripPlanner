@@ -1,0 +1,939 @@
+2024-08-16 17:47:13,839 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Hp\AppData\Local\Temp\testng-eclipse--1252380033\testng-customsuite.xml"
+2024-08-16 17:47:14,187 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-16 17:47:14,191 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2024-08-16 17:47:14,194 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-16 17:47:14,195 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-16 17:47:14,196 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-16 17:47:14,196 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-16 17:47:14,198 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-16 17:47:14,198 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-16 17:47:14,206 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+2024-08-16 17:47:14,230 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 23 ms.
+2024-08-16 17:47:14,232 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-16 17:47:14,233 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-16 17:47:14,234 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-16 17:47:14,234 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-16 17:47:14,235 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-16 17:47:14,235 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-16 17:47:14,237 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-16 17:47:14,238 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-16 17:47:14,239 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-16 17:47:14,239 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-16 17:47:14,245 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-16 17:47:14,245 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-16 17:47:14,245 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-16 17:47:14,245 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-16 17:47:14,247 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-16 17:47:14,247 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-16 17:47:14,250 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-16 17:47:14,250 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-16 17:47:14,250 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-16 17:47:14,250 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-16 17:47:14,264 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Hp\AppData\Local\Temp\testng-eclipse--1252380033\testng-customsuite.xml
+
+2024-08-16 17:47:14,290 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+2024-08-16 17:47:20,670 [main] INFO  TestCase.TC002TripPlanner - ******Starting Registration Process******
+2024-08-16 17:47:22,161 [main] INFO  TestCase.TC002TripPlanner - Validating expected message....
+2024-08-16 17:47:22,191 [main] INFO  TestCase.TC002TripPlanner - ********TC001 Finished Registration Test***********
+2024-08-16 17:47:22,621 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@692e028d: 106 ms
+2024-08-16 17:47:22,623 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@6629ad09: 1 ms
+2024-08-16 17:47:22,632 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@260a3a5e: 9 ms
+2024-08-16 17:47:22,639 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@2f66f0d0: 6 ms
+2024-08-16 17:47:22,648 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@10358c32: 8 ms
+2024-08-16 17:47:22,649 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@2af4129d: 0 ms
+2024-08-16 18:59:26,552 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\master.xml"
+2024-08-16 18:59:27,008 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\master.xml
+
+2024-08-16 18:59:34,693 [main] INFO  TestCase.TC001SigninTest - ******Starting Login Process******
+2024-08-16 18:59:34,744 [main] INFO  TestCase.TC001SigninTest - ******Open sign-in page....
+2024-08-16 18:59:35,022 [main] INFO  TestCase.TC001SigninTest - *****Input Login details now.....
+2024-08-16 19:00:00,344 [main] INFO  TestCase.TC001SigninTest - Validating expected message....
+2024-08-16 19:00:00,372 [main] INFO  TestCase.TC001SigninTest - ********TC001 Finished LogIn Test***********
+2024-08-16 19:00:05,936 [main] INFO  TestCase.TC002TripPlanner - ******Starting Registration Process******
+2024-08-16 19:00:07,465 [main] INFO  TestCase.TC002TripPlanner - Validating expected message....
+2024-08-16 19:00:07,489 [main] INFO  TestCase.TC002TripPlanner - ********TC001 Finished Registration Test***********
+2024-08-16 19:02:16,428 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\master.xml"
+2024-08-16 19:02:16,854 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\master.xml
+
+2024-08-16 19:02:27,365 [main] INFO  TestCase.TC001SigninTest - ******Starting Login Process******
+2024-08-16 19:02:27,404 [main] INFO  TestCase.TC001SigninTest - ******Open sign-in page....
+2024-08-16 19:02:27,681 [main] INFO  TestCase.TC001SigninTest - *****Input Login details now.....
+2024-08-16 19:02:55,551 [main] INFO  TestCase.TC001SigninTest - Validating expected message....
+2024-08-16 19:02:55,582 [main] INFO  TestCase.TC001SigninTest - ********TC001 Finished LogIn Test***********
+2024-08-16 19:03:02,749 [main] INFO  TestCase.TC002TripPlanner - ******Starting Registration Process******
+2024-08-16 19:03:04,455 [main] INFO  TestCase.TC002TripPlanner - Validating expected message....
+2024-08-16 19:03:04,482 [main] INFO  TestCase.TC002TripPlanner - ********TC001 Finished Registration Test***********
+2024-08-16 22:17:00,674 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\crossbrowsertesting.xml"
+2024-08-16 22:17:01,290 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\crossbrowsertesting.xml
+
+2024-08-16 22:17:13,115 [main] INFO  TestCase.TC001SigninTest - ******Starting Login Process******
+2024-08-16 22:17:13,183 [main] INFO  TestCase.TC001SigninTest - ******Open sign-in page....
+2024-08-16 22:17:13,638 [main] INFO  TestCase.TC001SigninTest - *****Input Login details now.....
+2024-08-16 22:18:08,513 [main] INFO  TestCase.TC001SigninTest - Validating expected message....
+2024-08-16 22:18:08,628 [main] INFO  TestCase.TC001SigninTest - ********TC001 Finished LogIn Test***********
+2024-08-16 22:18:15,658 [main] INFO  TestCase.TC002TripPlanner - ******Starting Registration Process******
+2024-08-16 22:18:18,057 [main] INFO  TestCase.TC002TripPlanner - Validating expected message....
+2024-08-16 22:18:18,104 [main] INFO  TestCase.TC002TripPlanner - ********TC001 Finished Registration Test***********
+2024-08-16 22:18:25,860 [main] INFO  TestCase.TC001SigninTest - ******Starting Login Process******
+2024-08-16 22:18:25,860 [main] INFO  TestCase.TC001SigninTest - ******Open sign-in page....
+2024-08-16 22:18:26,341 [main] INFO  TestCase.TC001SigninTest - *****Input Login details now.....
+2024-08-16 22:19:12,093 [main] INFO  TestCase.TC001SigninTest - Validating expected message....
+2024-08-16 22:19:12,161 [main] INFO  TestCase.TC001SigninTest - ********TC001 Finished LogIn Test***********
+2024-08-16 22:19:21,412 [main] INFO  TestCase.TC002TripPlanner - ******Starting Registration Process******
+2024-08-16 22:19:24,020 [main] INFO  TestCase.TC002TripPlanner - Validating expected message....
+2024-08-16 22:19:24,089 [main] INFO  TestCase.TC002TripPlanner - ********TC001 Finished Registration Test***********
+2024-08-16 22:19:38,521 [main] INFO  TestCase.TC002TripPlanner - ******Starting Registration Process******
+2024-08-16 22:19:41,117 [main] INFO  TestCase.TC002TripPlanner - Validating expected message....
+2024-08-16 22:19:41,147 [main] INFO  TestCase.TC002TripPlanner - ********TC001 Finished Registration Test***********
+2024-08-18 21:22:11,686 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\master.xml"
+2024-08-18 21:22:12,407 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\master.xml
+
+2024-08-18 21:22:24,418 [main] INFO  TestCase.TC001SigninTest - ******Starting Login Process******
+2024-08-18 21:22:24,504 [main] INFO  TestCase.TC001SigninTest - ******Open sign-in page....
+2024-08-18 21:22:25,064 [main] INFO  TestCase.TC001SigninTest - *****Input Login details now.....
+2024-08-18 21:23:12,585 [main] INFO  TestCase.TC001SigninTest - Validating expected message....
+2024-08-18 21:23:12,720 [main] INFO  TestCase.TC001SigninTest - ********TC001 Finished LogIn Test***********
+2024-08-18 21:23:20,517 [main] INFO  TestCase.TC002TripPlanner - ******Starting Registration Process******
+2024-08-18 21:23:22,883 [main] INFO  TestCase.TC002TripPlanner - Validating expected message....
+2024-08-18 21:23:22,925 [main] INFO  TestCase.TC002TripPlanner - ********TC001 Finished Registration Test***********
+2024-08-19 01:40:02,733 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\master.xml"
+2024-08-19 01:40:03,571 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\master.xml
+
+2024-08-19 01:40:15,067 [main] INFO  TestCase.TC001SigninTest - ******Starting Login Process******
+2024-08-19 01:40:15,124 [main] INFO  TestCase.TC001SigninTest - ******Open sign-in page....
+2024-08-19 01:40:15,486 [main] INFO  TestCase.TC001SigninTest - *****Input Login details now.....
+2024-08-19 01:40:51,175 [main] INFO  TestCase.TC001SigninTest - Validating expected message....
+2024-08-19 01:40:51,457 [main] INFO  TestCase.TC001SigninTest - ********TC001 Finished LogIn Test***********
+2024-08-19 01:40:59,172 [main] INFO  TestCase.TC002TripPlanner - ******Starting Registration Process******
+2024-08-19 01:41:01,572 [main] INFO  TestCase.TC002TripPlanner - Validating expected message....
+2024-08-19 01:41:01,615 [main] INFO  TestCase.TC002TripPlanner - ********TC001 Finished Registration Test***********
+2024-08-19 19:13:13,727 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\master.xml"
+2024-08-19 19:13:14,515 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\master.xml
+
+2024-08-19 19:13:25,609 [main] INFO  TestCase.TC001SigninTest - ******Starting Login Process******
+2024-08-19 19:13:25,728 [main] INFO  TestCase.TC001SigninTest - ******Open sign-in page....
+2024-08-19 19:13:26,316 [main] INFO  TestCase.TC001SigninTest - *****Input Login details now.....
+2024-08-19 19:14:06,499 [main] INFO  TestCase.TC001SigninTest - Validating expected message....
+2024-08-19 19:14:06,847 [main] INFO  TestCase.TC001SigninTest - ********TC001 Finished LogIn Test***********
+2024-08-19 19:14:14,504 [main] INFO  TestCase.TC002TripPlanner - ******Starting Registration Process******
+2024-08-19 19:14:17,089 [main] INFO  TestCase.TC002TripPlanner - Validating expected message....
+2024-08-19 19:14:17,130 [main] INFO  TestCase.TC002TripPlanner - ********TC001 Finished Registration Test***********
+2024-08-29 20:17:22,949 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\master.xml"
+2024-08-29 20:17:23,688 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\master.xml
+
+2024-08-29 20:17:37,199 [main] INFO  TestCase.TC001SigninTest - ******Starting Login Process******
+2024-08-29 20:17:37,315 [main] INFO  TestCase.TC001SigninTest - ******Open sign-in page....
+2024-08-29 20:17:37,781 [main] INFO  TestCase.TC001SigninTest - *****Input Login details now.....
+2024-08-29 20:18:09,531 [main] INFO  TestCase.TC001SigninTest - Validating expected message....
+2024-08-29 20:18:09,701 [main] INFO  TestCase.TC001SigninTest - ********TC001 Finished LogIn Test***********
+2024-08-29 20:18:16,834 [main] INFO  TestCase.TC002TripPlanner - ******Starting Registration Process******
+2024-08-29 20:18:19,383 [main] INFO  TestCase.TC002TripPlanner - Validating expected message....
+2024-08-29 20:18:19,423 [main] INFO  TestCase.TC002TripPlanner - ********TC001 Finished Registration Test***********
+2024-08-29 22:27:18,605 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\master.xml"
+2024-08-29 22:27:19,206 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\master.xml
+
+2024-08-29 22:27:33,981 [main] INFO  TestCase.TC002TripPlanner - ******Starting Registration Process******
+2024-08-29 22:27:37,070 [main] INFO  TestCase.TC002TripPlanner - Validating expected message....
+2024-08-29 22:27:37,114 [main] INFO  TestCase.TC002TripPlanner - ********TC001 Finished Registration Test***********
+2024-08-29 23:04:59,817 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\master.xml"
+2024-08-29 23:05:00,451 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\master.xml
+
+2024-08-29 23:05:08,511 [main] INFO  TestCase.TC001SigninTest - ******Starting Login Process******
+2024-08-29 23:05:08,572 [main] INFO  TestCase.TC001SigninTest - ******Open sign-in page....
+2024-08-29 23:05:09,081 [main] INFO  TestCase.TC001SigninTest - *****Input Login details now.....
+2024-08-29 23:05:34,961 [main] INFO  TestCase.TC001SigninTest - Validating expected message....
+2024-08-29 23:05:35,235 [main] INFO  TestCase.TC001SigninTest - ********TC001 Finished LogIn Test***********
+2024-08-30 23:06:23,960 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\master.xml"
+2024-08-30 23:08:33,968 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\master.xml"
+2024-08-30 23:08:34,433 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\master.xml
+
+2024-08-30 23:38:58,881 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\master.xml"
+2024-08-30 23:38:59,311 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\master.xml
+
+2024-08-30 23:47:13,358 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\master.xml"
+2024-08-30 23:47:13,782 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\master.xml
+
+2024-08-31 19:27:06,881 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\master.xml"
+2024-08-31 19:27:07,606 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\master.xml
+
+2024-08-31 22:53:40,692 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\master.xml"
+2024-08-31 22:53:41,404 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\master.xml
+
+2024-08-31 22:58:32,807 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\master.xml"
+2024-08-31 22:58:33,389 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\master.xml
+
+2024-08-31 23:05:20,424 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\master.xml"
+2024-08-31 23:05:21,034 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\master.xml
+
+2024-08-31 23:08:09,875 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\master.xml"
+2024-08-31 23:08:10,421 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\master.xml
+
+2024-08-31 23:58:22,226 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\master.xml"
+2024-08-31 23:58:22,810 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\master.xml
+
+2024-09-01 00:14:14,615 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\master.xml"
+2024-09-01 00:14:15,215 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\master.xml
+
+2024-09-01 00:17:47,579 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\master.xml"
+2024-09-01 00:17:48,291 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\master.xml
+
+2024-09-01 11:42:59,270 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\master.xml"
+2024-09-01 11:42:59,725 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\master.xml
+
+2024-09-01 11:43:07,613 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-01 11:43:07,625 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-01 11:43:07,634 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-01 11:45:00,111 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\test-output\testng-failed.xml"
+2024-09-01 11:45:00,520 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\test-output\testng-failed.xml
+
+2024-09-01 11:45:07,165 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-01 11:45:07,174 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-01 11:45:07,176 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-01 13:23:13,094 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\master.xml"
+2024-09-01 13:23:13,466 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClass.setUp(java.lang.String,java.lang.String)[pri:0, instance:null] 486977024
+2024-09-01 13:23:13,467 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+2024-09-01 13:23:13,470 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+2024-09-01 13:23:13,470 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+2024-09-01 13:23:13,470 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+2024-09-01 13:23:13,473 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClass.teardown()[pri:0, instance:null] -2024014441
+2024-09-01 13:23:13,473 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+2024-09-01 13:23:13,473 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+2024-09-01 13:23:13,473 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+2024-09-01 13:23:13,473 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+2024-09-01 13:23:13,483 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE TC003_LoginDDT.verify_loginDDT(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:TestCase.TC003_LoginDDT@8a589a2] -1383362112
+2024-09-01 13:23:13,483 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+2024-09-01 13:23:13,483 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+2024-09-01 13:23:13,483 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+2024-09-01 13:23:13,483 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+2024-09-01 13:23:13,495 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\master.xml
+
+2024-09-01 13:23:22,405 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-01 13:23:22,409 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-01 13:23:22,416 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-01 13:23:23,132 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE TC003_LoginDDT.verify_loginDDT(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:TestCase.TC003_LoginDDT@8a589a2] -1383362112
+2024-09-01 13:23:23,133 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+2024-09-01 13:23:23,137 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+2024-09-01 13:23:23,138 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+2024-09-01 13:23:23,139 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+2024-09-01 13:36:23,918 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\master.xml"
+2024-09-01 13:36:24,275 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClass.setUp(java.lang.String,java.lang.String)[pri:0, instance:null] 486977024
+2024-09-01 13:36:24,276 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+2024-09-01 13:36:24,281 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+2024-09-01 13:36:24,281 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+2024-09-01 13:36:24,281 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+2024-09-01 13:36:24,284 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClass.teardown()[pri:0, instance:null] -2024014441
+2024-09-01 13:36:24,284 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+2024-09-01 13:36:24,285 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+2024-09-01 13:36:24,285 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+2024-09-01 13:36:24,285 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+2024-09-01 13:36:24,295 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE TC003_LoginDDT.verify_loginDDT(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:TestCase.TC003_LoginDDT@8a589a2] -1383362112
+2024-09-01 13:36:24,296 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+2024-09-01 13:36:24,296 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+2024-09-01 13:36:24,296 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+2024-09-01 13:36:24,296 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+2024-09-01 13:36:24,308 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\master.xml
+
+2024-09-01 13:36:30,889 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-01 13:36:30,898 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-01 13:36:30,900 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-01 13:36:31,598 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE TC003_LoginDDT.verify_loginDDT(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:TestCase.TC003_LoginDDT@8a589a2] -1383362112
+2024-09-01 13:36:31,598 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+2024-09-01 13:36:31,598 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+2024-09-01 13:36:31,598 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+2024-09-01 13:36:31,600 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+2024-09-01 13:40:41,534 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\master.xml"
+2024-09-01 13:40:41,876 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClass.setUp(java.lang.String,java.lang.String)[pri:0, instance:null] 486977024
+2024-09-01 13:40:41,877 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+2024-09-01 13:40:41,881 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+2024-09-01 13:40:41,881 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+2024-09-01 13:40:41,881 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+2024-09-01 13:40:41,884 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClass.teardown()[pri:0, instance:null] -2024014441
+2024-09-01 13:40:41,885 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+2024-09-01 13:40:41,885 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+2024-09-01 13:40:41,885 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+2024-09-01 13:40:41,885 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+2024-09-01 13:40:41,899 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE TC003_LoginDDT.verify_loginDDT(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:TestCase.TC003_LoginDDT@8a589a2] -1383362112
+2024-09-01 13:40:41,899 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+2024-09-01 13:40:41,899 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+2024-09-01 13:40:41,899 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+2024-09-01 13:40:41,899 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+2024-09-01 13:40:41,911 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\master.xml
+
+2024-09-01 13:40:48,558 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE TC003_LoginDDT.verify_loginDDT(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:TestCase.TC003_LoginDDT@8a589a2] -1383362112
+2024-09-01 13:40:48,559 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+2024-09-01 13:40:48,559 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+2024-09-01 13:40:48,561 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+2024-09-01 13:40:48,561 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+2024-09-01 13:59:12,768 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\master.xml"
+2024-09-01 13:59:13,171 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClass.setUp(java.lang.String,java.lang.String)[pri:0, instance:null] 486977024
+2024-09-01 13:59:13,171 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+2024-09-01 13:59:13,179 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+2024-09-01 13:59:13,180 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+2024-09-01 13:59:13,180 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+2024-09-01 13:59:13,189 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClass.teardown()[pri:0, instance:null] -2024014441
+2024-09-01 13:59:13,189 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+2024-09-01 13:59:13,189 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+2024-09-01 13:59:13,189 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+2024-09-01 13:59:13,190 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+2024-09-01 13:59:13,207 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE TC003_LoginDDT.verify_loginDDT(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:TestCase.TC003_LoginDDT@8a589a2] -1383362112
+2024-09-01 13:59:13,207 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+2024-09-01 13:59:13,208 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+2024-09-01 13:59:13,208 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+2024-09-01 13:59:13,208 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+2024-09-01 13:59:13,227 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\master.xml
+
+2024-09-01 13:59:19,948 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-01 13:59:19,956 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-01 13:59:19,960 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-01 13:59:20,735 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE TC003_LoginDDT.verify_loginDDT(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:TestCase.TC003_LoginDDT@8a589a2] -1383362112
+2024-09-01 13:59:20,735 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+2024-09-01 13:59:20,736 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+2024-09-01 13:59:20,736 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+2024-09-01 13:59:20,736 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+2024-09-01 15:57:42,037 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\master.xml"
+2024-09-01 15:57:42,609 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClass.setUp(java.lang.String,java.lang.String)[pri:0, instance:null] 486977024
+2024-09-01 15:57:42,610 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+2024-09-01 15:57:42,616 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+2024-09-01 15:57:42,616 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+2024-09-01 15:57:42,616 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+2024-09-01 15:57:42,620 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClass.teardown()[pri:0, instance:null] -2024014441
+2024-09-01 15:57:42,621 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+2024-09-01 15:57:42,621 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+2024-09-01 15:57:42,621 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+2024-09-01 15:57:42,621 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+2024-09-01 15:57:42,631 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE TC003LoginDDT.verify_loginDDT(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:TestCase.TC003LoginDDT@c65a5ef] -867587010
+2024-09-01 15:57:42,631 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+2024-09-01 15:57:42,631 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+2024-09-01 15:57:42,632 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+2024-09-01 15:57:42,632 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+2024-09-01 15:57:42,650 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\master.xml
+
+2024-09-01 15:57:53,467 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-01 15:57:53,474 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-01 15:57:53,477 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-01 15:57:54,560 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE TC003LoginDDT.verify_loginDDT(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:TestCase.TC003LoginDDT@c65a5ef] -867587010
+2024-09-01 15:57:54,560 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+2024-09-01 15:57:54,561 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+2024-09-01 15:57:54,561 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+2024-09-01 15:57:54,563 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+2024-09-01 16:03:57,845 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\master.xml
+
+2024-09-01 16:05:09,964 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\master.xml"
+2024-09-01 16:05:10,482 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\master.xml
+
+2024-09-01 16:05:19,474 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-01 16:05:19,481 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-01 16:05:19,485 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-01 16:06:28,292 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\master.xml"
+2024-09-01 16:06:28,967 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\master.xml
+
+2024-09-01 16:06:36,868 [main] INFO  TestCase.TC001SigninTest - ******Starting Login Process******
+2024-09-01 16:06:37,066 [main] INFO  TestCase.TC001SigninTest - ******Open sign-in page....
+2024-09-01 16:06:37,614 [main] INFO  TestCase.TC001SigninTest - *****Input Login details now.....
+2024-09-01 16:07:35,693 [main] INFO  TestCase.TC001SigninTest - Validating expected message....
+2024-09-01 16:07:35,980 [main] INFO  TestCase.TC001SigninTest - ********TC001 Finished LogIn Test***********
+2024-09-01 19:23:09,372 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\master.xml"
+2024-09-01 19:23:10,021 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\master.xml
+
+2024-09-01 19:23:22,120 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-01 19:23:22,134 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-01 19:23:22,140 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-02 21:02:44,021 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\master.xml"
+2024-09-02 21:02:44,735 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\master.xml
+
+2024-09-02 21:02:58,702 [main] INFO  TestCase.TC001SigninTest - ******Starting Login Process******
+2024-09-02 21:02:58,767 [main] INFO  TestCase.TC001SigninTest - ******Open sign-in page....
+2024-09-02 21:02:59,238 [main] INFO  TestCase.TC001SigninTest - *****Input Login details now.....
+2024-09-02 21:03:43,076 [main] INFO  TestCase.TC001SigninTest - Validating expected message....
+2024-09-02 21:03:43,229 [main] INFO  TestCase.TC001SigninTest - ********TC001 Finished LogIn Test***********
+2024-09-02 21:04:43,517 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\master.xml"
+2024-09-02 21:04:44,085 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\master.xml
+
+2024-09-02 21:04:52,328 [main] INFO  TestCase.TC002TripPlanner - ******Starting Registration Process******
+2024-09-02 21:04:56,332 [main] INFO  TestCase.TC002TripPlanner - Validating expected message....
+2024-09-02 21:04:56,398 [main] INFO  TestCase.TC002TripPlanner - ********TC001 Finished Registration Test***********
+2024-09-02 21:05:46,276 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\master.xml"
+2024-09-02 21:05:46,854 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\master.xml
+
+2024-09-02 21:05:55,318 [main] INFO  TestCase.TC002TripPlanner - ******Starting Registration Process******
+2024-09-02 21:05:59,270 [main] INFO  TestCase.TC002TripPlanner - Validating expected message....
+2024-09-02 21:05:59,357 [main] INFO  TestCase.TC002TripPlanner - ********TC001 Finished Registration Test***********
+2024-09-02 22:13:41,140 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\master.xml"
+2024-09-02 22:13:41,551 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\master.xml
+
+2024-09-02 22:14:08,196 [main] INFO  TestCase.TC002TripPlanner - ******Starting Registration Process******
+2024-09-02 22:14:10,291 [main] INFO  TestCase.TC002TripPlanner - Validating expected message....
+2024-09-02 22:14:10,324 [main] INFO  TestCase.TC002TripPlanner - ********TC001 Finished Registration Test***********
+2024-09-02 22:15:10,186 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\master.xml"
+2024-09-02 22:15:10,616 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\master.xml
+
+2024-09-02 22:15:17,553 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-02 22:15:17,561 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-02 22:15:17,564 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-02 22:15:18,157 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-09-02 22:15:18,298 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-02 22:15:18,300 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-02 22:15:18,301 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-02 22:15:18,321 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-09-02 22:15:18,349 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-02 22:15:18,351 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-02 22:15:18,352 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-02 22:15:18,372 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-09-02 22:15:18,415 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-02 22:15:18,416 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-02 22:15:18,418 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-02 22:15:18,433 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-09-02 22:15:18,462 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-02 22:15:18,464 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-02 22:15:18,465 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-02 22:15:18,481 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-09-02 22:15:18,505 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-02 22:15:18,507 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-02 22:15:18,508 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-02 22:15:18,522 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-09-02 22:15:18,548 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-02 22:15:18,549 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-02 22:15:18,550 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-02 22:15:18,564 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-09-02 22:15:18,585 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-02 22:15:18,587 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-02 22:15:18,588 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-02 22:15:18,604 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-09-02 22:15:18,632 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-02 22:15:18,633 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-02 22:15:18,634 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-02 22:15:18,649 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-09-02 22:15:18,669 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-02 22:15:18,671 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-02 22:15:18,672 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-02 22:15:18,682 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-09-02 22:15:18,704 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-02 22:15:18,705 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-02 22:15:18,707 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-02 22:15:18,725 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-09-02 22:15:18,746 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-02 22:15:18,747 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-02 22:15:18,748 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-02 22:15:18,760 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-09-02 22:15:18,781 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-02 22:15:18,783 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-02 22:15:18,784 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-02 22:15:18,796 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-09-02 22:15:18,818 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-02 22:15:18,819 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-02 22:15:18,823 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-02 22:15:18,841 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-09-02 22:15:18,900 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-02 22:15:18,901 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-02 22:15:18,902 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-02 22:15:18,917 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-09-02 22:15:18,940 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-02 22:15:18,942 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-02 22:15:18,943 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-02 22:15:18,960 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-09-02 22:15:18,978 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-02 22:15:18,980 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-02 22:15:18,981 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-02 22:15:18,992 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-09-02 22:15:19,012 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-02 22:15:19,013 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-02 22:15:19,014 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-02 22:15:19,024 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-09-02 22:15:19,049 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-02 22:15:19,050 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-02 22:15:19,051 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-02 22:15:19,061 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-09-02 22:15:19,080 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-02 22:15:19,082 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-02 22:15:19,083 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-02 22:15:19,093 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-09-02 22:15:19,126 [main] INFO  TestCase.TC003LoginDDT - ******T003_Starting Login validation test*******
+2024-09-02 22:15:19,126 [main] INFO  TestCase.TC003LoginDDT - ******Open sign-in page....
+2024-09-02 22:15:58,288 [main] INFO  TestCase.TC003LoginDDT - ******Finished T003_Login validation test*******
+2024-09-02 22:15:58,305 [main] INFO  TestCase.TC003LoginDDT - ******T003_Starting Login validation test*******
+2024-09-02 22:15:58,306 [main] INFO  TestCase.TC003LoginDDT - ******Open sign-in page....
+2024-09-02 22:16:09,015 [main] INFO  TestCase.TC003LoginDDT - ******T003_Starting Login validation test*******
+2024-09-02 22:16:09,015 [main] INFO  TestCase.TC003LoginDDT - ******Open sign-in page....
+2024-09-02 22:16:09,732 [main] INFO  TestCase.TC003LoginDDT - ******T003_Starting Login validation test*******
+2024-09-02 22:16:09,732 [main] INFO  TestCase.TC003LoginDDT - ******Open sign-in page....
+2024-09-02 22:16:10,403 [main] INFO  TestCase.TC003LoginDDT - ******T003_Starting Login validation test*******
+2024-09-02 22:16:10,405 [main] INFO  TestCase.TC003LoginDDT - ******Open sign-in page....
+2024-09-02 22:16:12,729 [main] INFO  TestCase.TC003LoginDDT - ******Finished T003_Login validation test*******
+2024-09-02 22:16:12,739 [main] INFO  TestCase.TC003LoginDDT - ******T003_Starting Login validation test*******
+2024-09-02 22:16:12,739 [main] INFO  TestCase.TC003LoginDDT - ******Open sign-in page....
+2024-09-02 22:16:14,667 [main] INFO  TestCase.TC003LoginDDT - ******Finished T003_Login validation test*******
+2024-09-03 10:49:23,543 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\grouping.xml"
+2024-09-03 10:49:24,322 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\grouping.xml
+
+2024-09-03 10:49:35,181 [main] INFO  TestCase.TC001SigninTest - ******Starting Login Process******
+2024-09-03 10:49:35,285 [main] INFO  TestCase.TC001SigninTest - ******Open sign-in page....
+2024-09-03 10:49:35,752 [main] INFO  TestCase.TC001SigninTest - *****Input Login details now.....
+2024-09-03 10:50:01,224 [main] INFO  TestCase.TC001SigninTest - Validating expected message....
+2024-09-03 10:50:01,363 [main] INFO  TestCase.TC001SigninTest - ********TC001 Finished LogIn Test***********
+2024-09-07 00:44:58,478 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\grouping.xml"
+2024-09-07 00:50:57,691 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\grouping.xml"
+2024-09-07 00:51:45,102 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\master.xml"
+2024-09-07 00:53:41,950 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\grouping.xml"
+2024-09-07 00:53:42,505 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\grouping.xml
+
+2024-09-07 00:53:50,269 [main] INFO  TestCase.TC001SigninTest - ******Starting Login Process******
+2024-09-07 00:53:50,335 [main] INFO  TestCase.TC001SigninTest - ******Open sign-in page....
+2024-09-07 00:53:50,596 [main] INFO  TestCase.TC001SigninTest - *****Input Login details now.....
+2024-09-07 00:54:09,684 [main] INFO  TestCase.TC001SigninTest - Validating expected message....
+2024-09-07 00:54:09,753 [main] INFO  TestCase.TC001SigninTest - ********TC001 Finished LogIn Test***********
+2024-09-07 00:55:39,271 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\grouping.xml"
+2024-09-07 00:55:39,719 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\grouping.xml
+
+2024-09-07 00:55:46,208 [main] INFO  TestCase.TC001SigninTest - ******Starting Login Process******
+2024-09-07 00:55:46,260 [main] INFO  TestCase.TC001SigninTest - ******Open sign-in page....
+2024-09-07 00:55:46,510 [main] INFO  TestCase.TC001SigninTest - *****Input Login details now.....
+2024-09-07 00:56:07,698 [main] INFO  TestCase.TC001SigninTest - Validating expected message....
+2024-09-07 00:56:07,759 [main] INFO  TestCase.TC001SigninTest - ********TC001 Finished LogIn Test***********
+2024-09-07 00:56:13,704 [main] INFO  TestCase.TC002TripPlanner - ******Starting Registration Process******
+2024-09-07 00:56:15,695 [main] INFO  TestCase.TC002TripPlanner - Validating expected message....
+2024-09-07 00:56:15,716 [main] INFO  TestCase.TC002TripPlanner - ********TC001 Finished Registration Test***********
+2024-09-07 01:05:02,022 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\grouping.xml"
+2024-09-07 01:05:02,464 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\grouping.xml
+
+2024-09-07 01:05:08,924 [main] INFO  TestCase.TC001SigninTest - ******Starting Login Process******
+2024-09-07 01:05:08,974 [main] INFO  TestCase.TC001SigninTest - ******Open sign-in page....
+2024-09-07 01:05:09,242 [main] INFO  TestCase.TC001SigninTest - *****Input Login details now.....
+2024-09-07 01:05:09,783 [main] INFO  TestCase.TC001SigninTest - Validating expected message....
+2024-09-07 01:06:15,978 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\grouping.xml"
+2024-09-07 01:06:16,416 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\grouping.xml
+
+2024-09-07 01:06:22,823 [main] INFO  TestCase.TC001SigninTest - ******Starting Login Process******
+2024-09-07 01:06:22,865 [main] INFO  TestCase.TC001SigninTest - ******Open sign-in page....
+2024-09-07 01:06:23,124 [main] INFO  TestCase.TC001SigninTest - *****Input Login details now.....
+2024-09-07 01:06:44,338 [main] INFO  TestCase.TC001SigninTest - Validating expected message....
+2024-09-07 01:06:44,402 [main] INFO  TestCase.TC001SigninTest - ********TC001 Finished LogIn Test***********
+2024-09-07 01:11:35,699 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\grouping.xml"
+2024-09-07 01:11:36,154 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\grouping.xml
+
+2024-09-07 01:11:42,654 [main] INFO  TestCase.TC001SigninTest - ******Starting Login Process******
+2024-09-07 01:11:42,707 [main] INFO  TestCase.TC001SigninTest - ******Open sign-in page....
+2024-09-07 01:11:42,977 [main] INFO  TestCase.TC001SigninTest - *****Input Login details now.....
+2024-09-07 01:12:05,183 [main] INFO  TestCase.TC001SigninTest - Validating expected message....
+2024-09-07 01:12:05,244 [main] INFO  TestCase.TC001SigninTest - ********TC001 Finished LogIn Test***********
+2024-09-07 01:15:53,283 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\grouping.xml"
+2024-09-07 01:15:53,734 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\grouping.xml
+
+2024-09-07 01:16:00,336 [main] INFO  TestCase.TC001SigninTest - ******Starting Login Process******
+2024-09-07 01:16:00,423 [main] INFO  TestCase.TC001SigninTest - ******Open sign-in page....
+2024-09-07 01:16:00,692 [main] INFO  TestCase.TC001SigninTest - *****Input Login details now.....
+2024-09-07 01:16:24,015 [main] INFO  TestCase.TC001SigninTest - Validating expected message....
+2024-09-07 01:16:24,074 [main] INFO  TestCase.TC001SigninTest - ********TC001 Finished LogIn Test***********
+2024-09-07 01:29:31,703 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\grouping.xml"
+2024-09-07 01:29:32,198 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\grouping.xml
+
+2024-09-07 01:29:38,519 [main] INFO  TestCase.TC001SigninTest - ******Starting Login Process******
+2024-09-07 01:29:38,601 [main] INFO  TestCase.TC001SigninTest - ******Open sign-in page....
+2024-09-07 01:29:38,852 [main] INFO  TestCase.TC001SigninTest - *****Input Login details now.....
+2024-09-07 01:30:03,477 [main] INFO  TestCase.TC001SigninTest - Validating expected message....
+2024-09-07 01:30:03,540 [main] INFO  TestCase.TC001SigninTest - ********TC001 Finished LogIn Test***********
+2024-09-09 10:48:04,074 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\grouping.xml"
+2024-09-09 10:48:04,829 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\grouping.xml
+
+2024-09-09 10:48:15,540 [main] INFO  TestCase.TC001SigninTest - ******Starting Login Process******
+2024-09-09 10:48:15,643 [main] INFO  TestCase.TC001SigninTest - ******Open sign-in page....
+2024-09-09 10:48:16,052 [main] INFO  TestCase.TC001SigninTest - *****Input Login details now.....
+2024-09-09 10:48:46,733 [main] INFO  TestCase.TC001SigninTest - Validating expected message....
+2024-09-09 10:48:47,029 [main] INFO  TestCase.TC001SigninTest - ********TC001 Finished LogIn Test***********
+2024-09-10 00:07:34,266 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\master.xml"
+2024-09-10 00:07:34,738 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\master.xml
+
+2024-09-10 00:07:42,425 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-10 00:07:42,435 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-10 00:07:42,437 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-10 00:07:43,074 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-09-10 00:07:43,231 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-10 00:07:43,233 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-10 00:07:43,234 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-10 00:07:43,255 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-09-10 00:07:43,282 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-10 00:07:43,283 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-10 00:07:43,285 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-10 00:07:43,303 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-09-10 00:07:43,352 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-10 00:07:43,354 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-10 00:07:43,355 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-10 00:07:43,371 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-09-10 00:07:43,397 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-10 00:07:43,398 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-10 00:07:43,400 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-10 00:07:43,415 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-09-10 00:07:43,439 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-10 00:07:43,440 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-10 00:07:43,442 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-10 00:07:43,456 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-09-10 00:07:43,482 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-10 00:07:43,484 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-10 00:07:43,485 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-10 00:07:43,499 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-09-10 00:07:43,530 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-10 00:07:43,533 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-10 00:07:43,549 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-10 00:07:43,573 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-09-10 00:07:43,598 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-10 00:07:43,599 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-10 00:07:43,600 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-10 00:07:43,614 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-09-10 00:07:43,639 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-10 00:07:43,641 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-10 00:07:43,642 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-10 00:07:43,652 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-09-10 00:07:43,676 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-10 00:07:43,678 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-10 00:07:43,680 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-10 00:07:43,698 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-09-10 00:07:43,722 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-10 00:07:43,723 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-10 00:07:43,724 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-10 00:07:43,735 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-09-10 00:07:43,761 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-10 00:07:43,762 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-10 00:07:43,763 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-10 00:07:43,774 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-09-10 00:07:43,794 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-10 00:07:43,795 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-10 00:07:43,796 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-10 00:07:43,807 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-09-10 00:07:43,833 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-10 00:07:43,834 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-10 00:07:43,835 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-10 00:07:43,846 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-09-10 00:07:43,865 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-10 00:07:43,866 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-10 00:07:43,867 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-10 00:07:43,881 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-09-10 00:07:43,902 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-10 00:07:43,903 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-10 00:07:43,904 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-10 00:07:43,913 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-09-10 00:07:43,934 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-10 00:07:43,935 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-10 00:07:43,936 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-10 00:07:43,947 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-09-10 00:07:43,967 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-10 00:07:43,968 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-10 00:07:43,969 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-10 00:07:43,978 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-09-10 00:07:43,995 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-10 00:07:43,997 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-10 00:07:43,998 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-10 00:07:44,007 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-09-10 00:07:44,051 [main] INFO  TestCase.TC003LoginDDT - ******T003_Starting Login validation test*******
+2024-09-10 00:07:44,052 [main] INFO  TestCase.TC003LoginDDT - ******Open sign-in page....
+2024-09-10 00:08:04,250 [main] INFO  TestCase.TC003LoginDDT - ******Finished T003_Login validation test*******
+2024-09-10 00:08:04,302 [main] INFO  TestCase.TC003LoginDDT - ******T003_Starting Login validation test*******
+2024-09-10 00:08:04,303 [main] INFO  TestCase.TC003LoginDDT - ******Open sign-in page....
+2024-09-10 00:08:15,321 [main] INFO  TestCase.TC003LoginDDT - ******T003_Starting Login validation test*******
+2024-09-10 00:08:15,321 [main] INFO  TestCase.TC003LoginDDT - ******Open sign-in page....
+2024-09-10 00:08:16,450 [main] INFO  TestCase.TC003LoginDDT - ******T003_Starting Login validation test*******
+2024-09-10 00:08:16,450 [main] INFO  TestCase.TC003LoginDDT - ******Open sign-in page....
+2024-09-10 00:08:17,264 [main] INFO  TestCase.TC003LoginDDT - ******T003_Starting Login validation test*******
+2024-09-10 00:08:17,264 [main] INFO  TestCase.TC003LoginDDT - ******Open sign-in page....
+2024-09-10 00:08:19,274 [main] INFO  TestCase.TC003LoginDDT - ******Finished T003_Login validation test*******
+2024-09-10 00:08:19,279 [main] INFO  TestCase.TC003LoginDDT - ******T003_Starting Login validation test*******
+2024-09-10 00:08:19,279 [main] INFO  TestCase.TC003LoginDDT - ******Open sign-in page....
+2024-09-10 00:08:20,533 [main] INFO  TestCase.TC003LoginDDT - ******Finished T003_Login validation test*******
+2024-09-10 00:14:52,735 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\grouping.xml"
+2024-09-10 00:14:53,189 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\grouping.xml
+
+2024-09-10 00:15:01,079 [main] INFO  TestCase.TC001SigninTest - ******Starting Login Process******
+2024-09-10 00:15:01,163 [main] INFO  TestCase.TC001SigninTest - ******Open sign-in page....
+2024-09-10 00:15:01,467 [main] INFO  TestCase.TC001SigninTest - *****Input Login details now.....
+2024-09-10 00:15:19,768 [main] INFO  TestCase.TC001SigninTest - Validating expected message....
+2024-09-10 00:15:19,865 [main] INFO  TestCase.TC001SigninTest - ********TC001 Finished LogIn Test***********
+2024-09-10 00:17:53,630 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\master.xml"
+2024-09-10 00:17:54,035 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\master.xml
+
+2024-09-10 00:18:00,840 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-10 00:18:00,853 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-10 00:18:00,854 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-10 00:18:01,431 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-09-10 00:18:01,566 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-10 00:18:01,568 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-10 00:18:01,569 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-10 00:18:01,593 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-09-10 00:18:01,625 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-10 00:18:01,627 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-10 00:18:01,628 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-10 00:18:01,647 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-09-10 00:18:01,687 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-10 00:18:01,689 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-10 00:18:01,690 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-10 00:18:01,706 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-09-10 00:18:01,734 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-10 00:18:01,735 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-10 00:18:01,737 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-10 00:18:01,750 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-09-10 00:18:01,779 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-10 00:18:01,782 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-10 00:18:01,783 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-10 00:18:01,794 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-09-10 00:18:01,821 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-10 00:18:01,823 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-10 00:18:01,824 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-10 00:18:01,837 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-09-10 00:18:01,872 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-10 00:18:01,874 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-10 00:18:01,875 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-10 00:18:01,889 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-09-10 00:18:01,917 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-10 00:18:01,918 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-10 00:18:01,919 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-10 00:18:01,934 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-09-10 00:18:01,975 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-10 00:18:01,978 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-10 00:18:01,979 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-10 00:18:01,998 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-09-10 00:18:02,030 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-10 00:18:02,031 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-10 00:18:02,033 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-10 00:18:02,050 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-09-10 00:18:02,078 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-10 00:18:02,080 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-10 00:18:02,081 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-10 00:18:02,094 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-09-10 00:18:02,128 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-10 00:18:02,129 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-10 00:18:02,131 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-10 00:18:02,143 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-09-10 00:18:02,167 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-10 00:18:02,168 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-10 00:18:02,169 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-10 00:18:02,180 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-09-10 00:18:02,202 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-10 00:18:02,203 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-10 00:18:02,204 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-10 00:18:02,216 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-09-10 00:18:02,235 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-10 00:18:02,236 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-10 00:18:02,237 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-10 00:18:02,254 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-09-10 00:18:02,276 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-10 00:18:02,278 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-10 00:18:02,279 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-10 00:18:02,293 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-09-10 00:18:02,313 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-10 00:18:02,315 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-10 00:18:02,316 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-10 00:18:02,326 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-09-10 00:18:02,344 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-10 00:18:02,345 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-10 00:18:02,346 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-10 00:18:02,357 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-09-10 00:18:02,376 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-10 00:18:02,377 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-10 00:18:02,378 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-10 00:18:02,388 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-09-10 00:18:02,423 [main] INFO  TestCase.TC003LoginDDT - ******T003_Starting Login validation test*******
+2024-09-10 00:18:02,423 [main] INFO  TestCase.TC003LoginDDT - ******Open sign-in page....
+2024-09-10 00:18:21,885 [main] INFO  TestCase.TC003LoginDDT - ******Finished T003_Login validation test*******
+2024-09-10 00:18:21,938 [main] INFO  TestCase.TC003LoginDDT - ******T003_Starting Login validation test*******
+2024-09-10 00:18:21,940 [main] INFO  TestCase.TC003LoginDDT - ******Open sign-in page....
+2024-09-10 00:18:33,087 [main] INFO  TestCase.TC003LoginDDT - ******T003_Starting Login validation test*******
+2024-09-10 00:18:33,087 [main] INFO  TestCase.TC003LoginDDT - ******Open sign-in page....
+2024-09-10 00:18:34,238 [main] INFO  TestCase.TC003LoginDDT - ******T003_Starting Login validation test*******
+2024-09-10 00:18:34,239 [main] INFO  TestCase.TC003LoginDDT - ******Open sign-in page....
+2024-09-10 00:18:35,039 [main] INFO  TestCase.TC003LoginDDT - ******T003_Starting Login validation test*******
+2024-09-10 00:18:35,040 [main] INFO  TestCase.TC003LoginDDT - ******Open sign-in page....
+2024-09-10 00:18:37,273 [main] INFO  TestCase.TC003LoginDDT - ******Finished T003_Login validation test*******
+2024-09-10 00:18:37,287 [main] INFO  TestCase.TC003LoginDDT - ******T003_Starting Login validation test*******
+2024-09-10 00:18:37,287 [main] INFO  TestCase.TC003LoginDDT - ******Open sign-in page....
+2024-09-10 00:18:38,466 [main] INFO  TestCase.TC003LoginDDT - ******Finished T003_Login validation test*******
+2024-09-10 00:21:53,761 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\grouping.xml"
+2024-09-10 00:21:54,191 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\grouping.xml
+
+2024-09-10 00:22:00,813 [main] INFO  TestCase.TC001SigninTest - ******Starting Login Process******
+2024-09-10 00:22:00,860 [main] INFO  TestCase.TC001SigninTest - ******Open sign-in page....
+2024-09-10 00:22:01,140 [main] INFO  TestCase.TC001SigninTest - *****Input Login details now.....
+2024-09-10 00:22:19,644 [main] INFO  TestCase.TC001SigninTest - Validating expected message....
+2024-09-10 00:22:19,721 [main] INFO  TestCase.TC001SigninTest - ********TC001 Finished LogIn Test***********
+2024-09-10 00:25:37,136 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\master.xml"
+2024-09-10 00:25:37,558 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\master.xml
+
+2024-09-10 00:25:43,898 [main] INFO  TestCase.TC001SigninTest - ******Starting Login Process******
+2024-09-10 00:25:43,935 [main] INFO  TestCase.TC001SigninTest - ******Open sign-in page....
+2024-09-10 00:25:44,195 [main] INFO  TestCase.TC001SigninTest - *****Input Login details now.....
+2024-09-10 00:26:02,634 [main] INFO  TestCase.TC001SigninTest - Validating expected message....
+2024-09-10 00:26:02,733 [main] INFO  TestCase.TC001SigninTest - ********TC001 Finished LogIn Test***********
+2024-09-10 00:31:36,740 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\grouping.xml"
+2024-09-10 00:31:37,262 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\grouping.xml
+
+2024-09-10 00:31:44,207 [main] INFO  TestCase.TC001SigninTest - ******Starting Login Process******
+2024-09-10 00:31:44,254 [main] INFO  TestCase.TC001SigninTest - ******Open sign-in page....
+2024-09-10 00:31:44,488 [main] INFO  TestCase.TC001SigninTest - *****Input Login details now.....
+2024-09-10 00:32:02,324 [main] INFO  TestCase.TC001SigninTest - Validating expected message....
+2024-09-10 00:32:02,415 [main] INFO  TestCase.TC001SigninTest - ********TC001 Finished LogIn Test***********
+2024-09-10 00:32:34,592 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\crossbrowsertesting.xml"
+2024-09-10 00:32:35,159 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\crossbrowsertesting.xml
+
+2024-09-10 00:32:42,130 [TestNG-tests-1] INFO  TestCase.TC001SigninTest - ******Starting Login Process******
+2024-09-10 00:32:42,180 [TestNG-tests-1] INFO  TestCase.TC001SigninTest - ******Open sign-in page....
+2024-09-10 00:32:42,444 [TestNG-tests-1] INFO  TestCase.TC001SigninTest - *****Input Login details now.....
+2024-09-10 00:33:01,254 [TestNG-tests-1] INFO  TestCase.TC001SigninTest - Validating expected message....
+2024-09-10 00:33:01,339 [TestNG-tests-1] INFO  TestCase.TC001SigninTest - ********TC001 Finished LogIn Test***********
+2024-09-10 00:48:17,859 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\crossbrowsertesting.xml"
+2024-09-10 00:48:18,360 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\crossbrowsertesting.xml
+
+2024-09-10 00:48:26,802 [TestNG-tests-1] INFO  TestCase.TC001SigninTest - ******Starting Login Process******
+2024-09-10 00:48:26,852 [TestNG-tests-1] INFO  TestCase.TC001SigninTest - ******Open sign-in page....
+2024-09-10 00:48:27,254 [TestNG-tests-1] INFO  TestCase.TC001SigninTest - *****Input Login details now.....
+2024-09-10 00:48:31,907 [TestNG-tests-2] INFO  TestCase.TC001SigninTest - ******Starting Login Process******
+2024-09-10 00:48:31,907 [TestNG-tests-2] INFO  TestCase.TC001SigninTest - ******Open sign-in page....
+2024-09-10 00:52:42,225 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\crossbrowsertesting.xml"
+2024-09-10 00:52:42,740 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\crossbrowsertesting.xml
+
+2024-09-10 00:52:54,818 [TestNG-tests-2] INFO  TestCase.TC001SigninTest - ******Starting Login Process******
+2024-09-10 00:52:54,871 [TestNG-tests-1] INFO  TestCase.TC001SigninTest - ******Starting Login Process******
+2024-09-10 00:52:54,886 [TestNG-tests-3] INFO  TestCase.TC001SigninTest - ******Starting Login Process******
+2024-09-10 00:52:54,915 [TestNG-tests-3] INFO  TestCase.TC001SigninTest - ******Open sign-in page....
+2024-09-10 00:52:54,916 [TestNG-tests-1] INFO  TestCase.TC001SigninTest - ******Open sign-in page....
+2024-09-10 00:52:54,915 [TestNG-tests-2] INFO  TestCase.TC001SigninTest - ******Open sign-in page....
+2024-09-10 00:52:55,345 [TestNG-tests-3] INFO  TestCase.TC001SigninTest - *****Input Login details now.....
+2024-09-10 10:02:54,062 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\crossbrowsertesting.xml"
+2024-09-10 10:02:54,882 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\crossbrowsertesting.xml
+
+2024-09-10 10:07:34,173 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\crossbrowsertesting.xml"
+2024-09-10 10:07:34,957 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\crossbrowsertesting.xml
+
+2024-09-10 10:07:55,354 [TestNG-tests-1] INFO  TestCase.TC001SigninTest - ******Starting Login Process******
+2024-09-10 10:07:55,359 [TestNG-tests-2] INFO  TestCase.TC001SigninTest - ******Starting Login Process******
+2024-09-10 10:07:55,410 [TestNG-tests-3] INFO  TestCase.TC001SigninTest - ******Starting Login Process******
+2024-09-10 10:07:55,458 [TestNG-tests-2] INFO  TestCase.TC001SigninTest - ******Open sign-in page....
+2024-09-10 10:07:55,458 [TestNG-tests-3] INFO  TestCase.TC001SigninTest - ******Open sign-in page....
+2024-09-10 10:07:55,461 [TestNG-tests-1] INFO  TestCase.TC001SigninTest - ******Open sign-in page....
+2024-09-10 10:07:55,961 [TestNG-tests-1] INFO  TestCase.TC001SigninTest - *****Input Login details now.....
+2024-09-10 10:23:05,797 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\grouping.xml"
+2024-09-10 10:23:06,415 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\grouping.xml
+
+2024-09-10 10:23:17,908 [main] INFO  TestCase.TC001SigninTest - ******Starting Login Process******
+2024-09-10 10:23:18,084 [main] INFO  TestCase.TC001SigninTest - ******Open sign-in page....
+2024-09-10 10:23:18,683 [main] INFO  TestCase.TC001SigninTest - *****Input Login details now.....
+2024-09-10 10:23:42,795 [main] INFO  TestCase.TC001SigninTest - Validating expected message....
+2024-09-10 10:23:42,990 [main] INFO  TestCase.TC001SigninTest - ********TC001 Finished LogIn Test***********
+2024-09-10 10:24:32,040 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\grouping.xml"
+2024-09-10 10:24:32,667 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\grouping.xml
+
+2024-09-10 10:24:41,142 [main] INFO  TestCase.TC001SigninTest - ******Starting Login Process******
+2024-09-10 10:24:41,190 [main] INFO  TestCase.TC001SigninTest - ******Open sign-in page....
+2024-09-10 10:24:41,728 [main] INFO  TestCase.TC001SigninTest - *****Input Login details now.....
+2024-09-10 10:25:07,948 [main] INFO  TestCase.TC001SigninTest - Validating expected message....
+2024-09-10 10:25:08,110 [main] INFO  TestCase.TC001SigninTest - ********TC001 Finished LogIn Test***********
+2024-09-10 10:34:38,084 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\crossbrowsertesting.xml"
+2024-09-10 10:34:38,749 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\crossbrowsertesting.xml
+
+2024-09-10 10:34:51,998 [TestNG-tests-2] INFO  TestCase.TC001SigninTest - ******Starting Login Process******
+2024-09-10 10:34:52,006 [TestNG-tests-3] INFO  TestCase.TC001SigninTest - ******Starting Login Process******
+2024-09-10 10:34:52,009 [TestNG-tests-1] INFO  TestCase.TC001SigninTest - ******Starting Login Process******
+2024-09-10 10:34:52,166 [TestNG-tests-2] INFO  TestCase.TC001SigninTest - ******Open sign-in page....
+2024-09-10 10:34:52,169 [TestNG-tests-1] INFO  TestCase.TC001SigninTest - ******Open sign-in page....
+2024-09-10 10:34:52,229 [TestNG-tests-3] INFO  TestCase.TC001SigninTest - ******Open sign-in page....
+2024-09-10 10:34:52,973 [TestNG-tests-1] INFO  TestCase.TC001SigninTest - *****Input Login details now.....
+2024-09-12 23:24:13,675 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\grouping.xml"
+2024-09-12 23:24:14,223 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\grouping.xml
+
+2024-09-12 23:24:23,211 [main] INFO  TestCase.TC001SigninTest - ******Starting Login Process******
+2024-09-12 23:24:23,305 [main] INFO  TestCase.TC001SigninTest - ******Open sign-in page....
+2024-09-12 23:24:23,632 [main] INFO  TestCase.TC001SigninTest - *****Input Login details now.....
+2024-09-12 23:24:48,268 [main] INFO  TestCase.TC001SigninTest - Validating expected message....
+2024-09-12 23:24:48,389 [main] INFO  TestCase.TC001SigninTest - ********TC001 Finished LogIn Test***********
+2024-09-14 23:06:55,304 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\master.xml"
+2024-09-14 23:07:07,027 [main] INFO  TestCase.TC001SigninTest - ******Starting Login Process******
+2024-09-14 23:07:07,125 [main] INFO  TestCase.TC001SigninTest - ******Open sign-in page....
+2024-09-14 23:07:07,559 [main] INFO  TestCase.TC001SigninTest - *****Input Login details now.....
+2024-09-14 23:07:35,964 [main] INFO  TestCase.TC001SigninTest - Validating expected message....
+2024-09-14 23:07:36,138 [main] INFO  TestCase.TC001SigninTest - ********TC001 Finished LogIn Test***********
+2024-09-14 23:09:32,143 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\grouping.xml"
+2024-09-14 23:09:40,779 [main] INFO  TestCase.TC001SigninTest - ******Starting Login Process******
+2024-09-14 23:09:40,854 [main] INFO  TestCase.TC001SigninTest - ******Open sign-in page....
+2024-09-14 23:09:41,367 [main] INFO  TestCase.TC001SigninTest - *****Input Login details now.....
+2024-09-14 23:10:17,873 [main] INFO  TestCase.TC001SigninTest - Validating expected message....
+2024-09-14 23:10:18,129 [main] INFO  TestCase.TC001SigninTest - ********TC001 Finished LogIn Test***********
+2024-09-15 11:01:11,744 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\grouping.xml"
+2024-09-15 11:01:20,288 [main] INFO  TestCase.TC001SigninTest - ******Starting Login Process******
+2024-09-15 11:01:20,355 [main] INFO  TestCase.TC001SigninTest - ******Open sign-in page....
+2024-09-15 11:01:20,602 [main] INFO  TestCase.TC001SigninTest - *****Input Login details now.....
+2024-09-15 11:01:45,990 [main] INFO  TestCase.TC001SigninTest - Validating expected message....
+2024-09-15 11:01:46,071 [main] INFO  TestCase.TC001SigninTest - ********TC001 Finished LogIn Test***********
+2024-09-15 11:21:16,399 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\grouping.xml"
+2024-09-15 11:21:23,310 [main] INFO  TestCase.TC001SigninTest - ******Starting Login Process******
+2024-09-15 11:21:23,366 [main] INFO  TestCase.TC001SigninTest - ******Open sign-in page....
+2024-09-15 11:21:23,661 [main] INFO  TestCase.TC001SigninTest - *****Input Login details now.....
+2024-09-15 11:21:48,736 [main] INFO  TestCase.TC001SigninTest - Validating expected message....
+2024-09-15 11:21:48,817 [main] INFO  TestCase.TC001SigninTest - ********TC001 Finished LogIn Test***********
+2024-09-15 19:58:27,741 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\grouping.xml"
+2024-09-15 19:58:38,653 [main] INFO  TestCase.TC001SigninTest - ******Starting Login Process******
+2024-09-15 19:58:38,716 [main] INFO  TestCase.TC001SigninTest - ******Open sign-in page....
+2024-09-15 19:58:39,198 [main] INFO  TestCase.TC001SigninTest - *****Input Login details now.....
+2024-09-15 19:59:16,663 [main] INFO  TestCase.TC001SigninTest - Validating expected message....
+2024-09-15 19:59:16,860 [main] INFO  TestCase.TC001SigninTest - ********TC001 Finished LogIn Test***********
+2024-09-15 20:00:50,660 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Hp\eclipse-workspacesss\Project002TripPlanner\grouping.xml"
+2024-09-15 20:00:59,663 [main] INFO  TestCase.TC001SigninTest - ******Starting Login Process******
+2024-09-15 20:00:59,732 [main] INFO  TestCase.TC001SigninTest - ******Open sign-in page....
+2024-09-15 20:01:00,143 [main] INFO  TestCase.TC001SigninTest - *****Input Login details now.....
+2024-09-15 20:01:41,221 [main] INFO  TestCase.TC001SigninTest - Validating expected message....
+2024-09-15 20:01:41,373 [main] INFO  TestCase.TC001SigninTest - ********TC001 Finished LogIn Test***********
