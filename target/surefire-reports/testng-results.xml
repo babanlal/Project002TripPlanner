@@ -2,18 +2,18 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-09-21T11:58:05 IST" name="Master Suite" finished-at="2024-09-21T11:58:51 IST" duration-ms="46555">
+  <suite started-at="2024-10-10T00:02:12 CEST" name="Master Suite" finished-at="2024-10-10T00:03:16 CEST" duration-ms="64631">
     <groups>
       <group name="Master">
-        <method signature="TC001SigninTest.SignIn()[pri:0, instance:TestCase.TC001SigninTest@301ec38b]" name="SignIn" class="TestCase.TC001SigninTest"/>
+        <method signature="TC001SigninTest.SignIn()[pri:0, instance:TestCase.TC001SigninTest@625e134e]" name="SignIn" class="TestCase.TC001SigninTest"/>
       </group> <!-- Master -->
       <group name="Sanity">
-        <method signature="TC001SigninTest.SignIn()[pri:0, instance:TestCase.TC001SigninTest@301ec38b]" name="SignIn" class="TestCase.TC001SigninTest"/>
+        <method signature="TC001SigninTest.SignIn()[pri:0, instance:TestCase.TC001SigninTest@625e134e]" name="SignIn" class="TestCase.TC001SigninTest"/>
       </group> <!-- Sanity -->
     </groups>
-    <test started-at="2024-09-21T11:58:05 IST" name="Test" finished-at="2024-09-21T11:58:51 IST" duration-ms="46555">
+    <test started-at="2024-10-10T00:02:12 CEST" name="Test" finished-at="2024-10-10T00:03:16 CEST" duration-ms="64631">
       <class name="TestCase.TC001SigninTest">
-        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String)[pri:0, instance:TestCase.TC001SigninTest@301ec38b]" started-at="2024-09-21T11:58:05 IST" name="setUp" finished-at="2024-09-21T11:58:15 IST" duration-ms="9346" status="PASS">
+        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String)[pri:0, instance:TestCase.TC001SigninTest@625e134e]" started-at="2024-10-10T00:02:12 CEST" name="setUp" finished-at="2024-10-10T00:02:20 CEST" duration-ms="7560" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -29,11 +29,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="SignIn()[pri:0, instance:TestCase.TC001SigninTest@301ec38b]" started-at="2024-09-21T11:58:15 IST" name="SignIn" finished-at="2024-09-21T11:58:51 IST" duration-ms="36365" status="PASS">
+        <test-method signature="SignIn()[pri:0, instance:TestCase.TC001SigninTest@625e134e]" started-at="2024-10-10T00:02:20 CEST" name="SignIn" finished-at="2024-10-10T00:03:16 CEST" duration-ms="56390" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SignIn -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:TestCase.TC001SigninTest@301ec38b]" started-at="2024-09-21T11:58:51 IST" name="teardown" finished-at="2024-09-21T11:58:51 IST" duration-ms="416" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TestCase.TC001SigninTest@625e134e]" started-at="2024-10-10T00:03:16 CEST" name="teardown" finished-at="2024-10-10T00:03:16 CEST" duration-ms="313" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->

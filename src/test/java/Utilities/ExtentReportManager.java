@@ -40,7 +40,7 @@ public class ExtentReportManager implements ITestListener
 	 
 	 sparkReporter.config().setDocumentTitle("TripPlanner Automation Report"); // TiTle of report
 	 sparkReporter.config().setReportName("TripPlanner Functional Testing"); // name of the report
-	 sparkReporter.config().setTheme(Theme.STANDARD);
+	 sparkReporter.config().setTheme(Theme.DARK);
 	 
 	 
 	 extent=new ExtentReports();

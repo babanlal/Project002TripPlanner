@@ -27,7 +27,7 @@
     
     <Loggers>
         <Root level="Debug"><!-- All<Trace<Debug<Info<Warn<Error<Fatal<Off -->
-            <AppenderRef ref="File"/>
+            <AppenderRef ref="File"/><!-- File<Console -->
         </Root>
     </Loggers>
     

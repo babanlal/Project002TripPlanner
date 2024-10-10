@@ -15,7 +15,7 @@
   
     <classes>
       <class name="TestCase.TC001SigninTest"/>
-      <!-- <class name="TestCase.TC002TripPlanner"/>-->
+      <class name="TestCase.TC002TripPlanner"/>
        <!-- <class name="TestCase.TC003LoginDDT"/> -->
     </classes>
   </test> <!-- Test -->

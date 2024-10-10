@@ -8,13 +8,13 @@
     <parameter name="os" value="Windows"/>
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="TestCase.TC003LoginDDT">
+      <class name="TestCase.TC001SigninTest">
         <methods>
-          <include name="verifyLoginDDT" invocation-numbers="1 2 3"/>
+          <include name="SignIn"/>
           <include name="setUp"/>
           <include name="teardown"/>
         </methods>
-      </class> <!-- TestCase.TC003LoginDDT -->
+      </class> <!-- TestCase.TC001SigninTest -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Master Suite] -->

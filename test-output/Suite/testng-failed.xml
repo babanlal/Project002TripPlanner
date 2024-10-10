@@ -4,6 +4,24 @@
   <listeners>
     <listener class-name="Utilities.ExtentReportManager"/>
   </listeners>
+  <test thread-count="5" parallel="tests" name="Chrometest(failed)">
+    <parameter name="os" value="Windows"/>
+    <parameter name="browser" value="chrome"/>
+    <groups>
+      <run>
+        <include name="Sanity"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="TestCase.TC001SigninTest">
+        <methods>
+          <include name="SignIn"/>
+          <include name="setUp"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- TestCase.TC001SigninTest -->
+    </classes>
+  </test> <!-- Chrometest(failed) -->
   <test thread-count="5" parallel="tests" name="firefoxtest(failed)">
     <parameter name="os" value="Windows"/>
     <parameter name="browser" value="firefox"/>
@@ -22,22 +40,4 @@
       </class> <!-- TestCase.TC001SigninTest -->
     </classes>
   </test> <!-- firefoxtest(failed) -->
-  <test thread-count="5" parallel="tests" name="edgetest(failed)">
-    <parameter name="os" value="Windows"/>
-    <parameter name="browser" value="edge"/>
-    <groups>
-      <run>
-        <include name="Sanity"/>
-      </run>
-    </groups>
-    <classes>
-      <class name="TestCase.TC001SigninTest">
-        <methods>
-          <include name="SignIn"/>
-          <include name="setUp"/>
-          <include name="teardown"/>
-        </methods>
-      </class> <!-- TestCase.TC001SigninTest -->
-    </classes>
-  </test> <!-- edgetest(failed) -->
 </suite> <!-- Failed suite [Suite] -->
