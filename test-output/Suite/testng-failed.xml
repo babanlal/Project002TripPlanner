@@ -22,9 +22,9 @@
       </class> <!-- TestCase.TC001SigninTest -->
     </classes>
   </test> <!-- Chrometest(failed) -->
-  <test thread-count="5" parallel="tests" name="firefoxtest(failed)">
+  <test thread-count="5" parallel="tests" name="edgetest(failed)">
     <parameter name="os" value="Windows"/>
-    <parameter name="browser" value="firefox"/>
+    <parameter name="browser" value="edge"/>
     <groups>
       <run>
         <include name="Sanity"/>
@@ -39,5 +39,5 @@
         </methods>
       </class> <!-- TestCase.TC001SigninTest -->
     </classes>
-  </test> <!-- firefoxtest(failed) -->
+  </test> <!-- edgetest(failed) -->
 </suite> <!-- Failed suite [Suite] -->
